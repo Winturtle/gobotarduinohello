@@ -1,5 +1,6 @@
 # gobotarduinohello
-使用gobot來實現Arduino Uno的Hello world! 
+使用gobot來實現Arduino Uno的Hello world!
+1.開發板上13號LED燈閃爍
 
 # 使用工具
 1. Go
